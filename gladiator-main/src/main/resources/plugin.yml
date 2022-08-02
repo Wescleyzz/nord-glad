@@ -1,0 +1,5 @@
+name: Gladiator
+main: br.saintmc.gladiator.Gladiator
+version: ${fullVersion}
+author: LuisMaartins
+depend: [Commons]

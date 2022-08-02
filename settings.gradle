@@ -1,0 +1,3 @@
+rootProject.name = 'Gladiator'
+include 'gladiator-main'
+
